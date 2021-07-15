@@ -150,14 +150,14 @@ body {
   .header p {
     font-size: 25px;
   }
-  .user_image {
+  /* .user_image {
     height: 40vh;
     top: 35%;
   }
   .bot_image{
     height: 40vh;
     top: 35%;
-  }
+  } */
   #mic{
     left: 40vw;
     width: 55px;
